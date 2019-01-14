@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hap-todo-service/hap-todo-service.iml" filepath="$PROJECT_DIR$/hap-todo-service/hap-todo-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/hap-todo-service-parent.iml" filepath="$PROJECT_DIR$/hap-todo-service-parent.iml" />
     </modules>
   </component>
